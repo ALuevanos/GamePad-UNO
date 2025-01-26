@@ -10,13 +10,6 @@ The goal of this project is to explore the potential of embedded systems and pro
 - Compatibility with Windows, macOS, and Linux.
 - 3D-printed ergonomic case for user comfort.
 
-## 📚 What I Learned
-- Designing embedded systems using Arduino.
-- Programming hardware inputs and outputs in C++.
-- 3D modeling and printing techniques.
-- Soldering and circuit design for robust hardware integration.
-
-
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alexisluevanos11/)
 - [GitHub](https://github.com/ALuevanos)
