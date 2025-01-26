@@ -5,9 +5,6 @@ An innovative project that transforms an Arduino Uno into a functional gaming co
 ## 🚀 Project Purpose
 The goal of this project is to explore the potential of embedded systems and provide hands-on experience in creating USB gaming controllers. This includes hardware design, software programming, and 3D modeling for the controller case.
 
-nguage:
-- **C++**
-
 ## ✨ Features
 - Custom firmware for USB game controller functionality.
 - Compatibility with Windows, macOS, and Linux.
